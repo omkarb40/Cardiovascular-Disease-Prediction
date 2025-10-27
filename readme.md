@@ -55,16 +55,17 @@ git clone <your-repo-url>
 cd <your-repo>
 pip install -r requirements.txt
 jupyter notebook cardio.ipynb
+```
 
 ---
 
 ## Dependencies
 
-torch
-pandas
-numpy
-matplotlib
-scikit-learn
+- torch
+- pandas
+- numpy
+- matplotlib
+- scikit-learn
 
 ---
 
